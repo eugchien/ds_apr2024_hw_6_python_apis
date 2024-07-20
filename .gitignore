@@ -1,3 +1,7 @@
+# Adding Starter_Code and Solutions folders
+Solutions/
+Starter_Code/
+
 # Adding config.py file.
 api_keys.py
 
